@@ -1,0 +1,26 @@
+fieldset{
+    size: 500px;
+}
+fieldset{
+    background-color: rgba(92, 3, 3, 0.5) 0.5);
+}
+legend{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    color: #ffb6b6;
+    background: linear-gradient(45deg,green,purple);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    color: #f7f7f7;
+    background: linear-gradient(45deg,green,purple;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+option{
+    color: antiquewhite;
+
+}
